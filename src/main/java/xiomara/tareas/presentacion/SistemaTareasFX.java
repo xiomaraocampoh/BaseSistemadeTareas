@@ -43,3 +43,5 @@ public class SistemaTareasFX extends Application {
         Platform.exit();
     }
 }
+
+//aqui se agrego la aplicación de javafx

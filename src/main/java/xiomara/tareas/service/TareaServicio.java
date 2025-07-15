@@ -7,7 +7,7 @@ import xiomara.tareas.repository.TareaRepositorio;
 import java.util.List;
 
 @Service
-public class TareaServicio implements ITareaServicio{
+public class TareaServicio implements ITareaServicio {
     @Autowired
     private TareaRepositorio tareaRepositorio;
 
